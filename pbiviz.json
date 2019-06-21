@@ -1,0 +1,27 @@
+{
+    "visual": {
+        "name": "barChart",
+        "displayName": "BarChart",
+        "guid": "barChart10D8E035DB6547FA8D25D9F5B068F0B4",
+        "visualClassName": "Visual",
+        "version": "1.0.0",
+        "description": "description",
+        "supportUrl": "supportUrl",
+        "gitHubUrl": "gitHubUrl"
+    },
+    "apiVersion": "2.6.0",
+    "author": {
+        "name": "Test",
+        "email": "email"
+    },
+    "assets": {
+        "icon": "assets/barChart.png"
+    },
+    "externalJS": [
+        "node_modules/d3/d3.min.js"
+    ],
+    "style": "style/visual.less",
+    "capabilities": "capabilities.json",
+    "dependencies": null,
+    "stringResources": []
+}
