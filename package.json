@@ -14,7 +14,7 @@
     "bootstrap": "^4.3.1",
     "core-js": "^2.6.8",
     "d3": "^3.5.5",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "popper.js": "^1.14.7",
     "powerbi-visuals-api": "~2.6.0",
     "powerbi-visuals-utils-dataviewutils": "^2.2.0"
